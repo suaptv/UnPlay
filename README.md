@@ -8,10 +8,10 @@ UnPlay还提供独特的多屏互动体验，为家庭生活增添乐趣。
 此外，在繁忙的生活中，UnPlay也能给您带来宁静，让您享受安静聆听的时刻。
 
 ### 支持平台
-- tvos
+- tvos (Apple TV)
 - ios (iPhone)
 - ipadOS (iPad)
-- macOS M1
+- macOS (Mac M1)
   
 ### 已完成的时钟设计
 - 翻页时钟
