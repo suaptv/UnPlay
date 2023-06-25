@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/suaptv/UnPlay/main/images/UnPlay.jpg)
 > 本仓库为收集 UnPlay 在使用过程中遇到的问题
 
-UnPlay是一款创新的时钟/投屏应用，为用户提供多样化的场景体验。
+UnPlay是一款创新的时钟/宣传演示/投屏应用，为用户提供多样化的场景体验。
 
 它不仅可以作为时钟使用，还可以接受投屏功能，使您的大屏幕分享更加多元化。
 UnPlay还提供独特的多屏互动体验，为家庭生活增添乐趣。
