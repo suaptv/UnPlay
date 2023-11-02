@@ -47,6 +47,7 @@ UnPlay还提供独特的多屏互动体验，为家庭生活增添乐趣。
 - 投屏之后手机上可以玩游戏,刷douyin,刷微博
 - 手机上追剧不会把现有的投屏顶替掉
 
+###https://raw.githubusercontent.com/suaptv/UnPlay/main/Help 帮助
 
 ### 接受UPNP/DLNA投屏功能
 - 极速投屏
