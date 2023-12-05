@@ -14,3 +14,4 @@
 网络调试工具说明
 1. q.x 其他设置—开启兼容性增强
 2. s.u,r.g,e 在配置文件[General]添加 tun-excluded-routes = 239.255.255.250/32
+3. stash tunnel兼容模式打开
