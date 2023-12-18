@@ -15,7 +15,7 @@ UnPlay还提供独特的多屏互动体验，为家庭生活增添乐趣。
 https://apps.apple.com/app/unplay/id6450034641
 ### 给予大家良好的体验
 - 更多时钟设计 
-- 接受UPNP/DLNA协议投屏功能
+- 接收UPNP/DLNA协议投屏功能
 - 网页端推送视频, 组合成列表播放
 - 更多APP图标 
 
