@@ -49,6 +49,7 @@ UnPlay--设置(下滑或按下方向键)--Top小组件
 
 ### UPNP/DLNA投屏接收端功能
 - 极速投屏
+- 先打开UnPlay,再打开Youtube,小红书 alook不受影响
 - 投屏支持(图片，直播，音频)
 - 支持HDR投屏
 - FFMpeg解码播放
