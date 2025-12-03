@@ -1,16 +1,70 @@
-Privacy Policy
+# UnPlay Privacy Policy (English Version)
 
-The UnPlay team has developed the UnPlay App into an application. This service is provided free of charge by UnPlay and is used as is.
-This page is used to notify visitors about my application policies.
-Except as stated in this privacy policy, UnPlay will not use or share your information with anyone.
-The terms used in this privacy policy have the same meanings as those in our terms and conditions, and can be accessed on UnPlay unless otherwise specified in this privacy policy.
+**Last Updated: 2025-12-03**
 
-Developers do not collect any privacy data, nor do they upload any privacy data to their servers. Developers do not set up servers to associate with apps
-There are no advertising SDKs or third-party collection bugs, or there are no other collection information SDKs
+The UnPlay Team (“we”) developed and provides the UnPlay App (“the App”). The App is offered by UnPlay free of charge and is intended for use as is. This Privacy Policy explains how we handle information.
 
+---
 
-update
-We may modify and update this privacy policy from time to time. Regarding updates to the privacy policy, we will publish notifications and announcements in the UnPlay App. You can visit the UnPlay App to check the latest version of the privacy policy. We will send you a solemn notice of significant changes.
+## 1. Information Collection
 
-For a better experience, the information we request will not be retained on your device when using our services, and we will not collect it in any way.
-Contact us, if you have any questions or suggestions about my privacy policy, please feel free to contact me at any time veritylinda@gmail.com
+The App **does not collect, store, or upload** any personal data:
+
+- No servers are used to receive or store any user data  
+- No device information, usage information, or content is uploaded  
+- No advertising SDKs are used  
+- No third-party analytics or data-collection SDKs are included  
+- No tracking or user profiling is performed  
+
+---
+
+## 2. Use of WeatherKit
+
+The App uses Apple **WeatherKit** solely to display weather information:
+https://weatherkit.apple.com/legal-attribution.html
+
+- Used only for weather queries and visual display  
+- Not linked to any user identity  
+- Not used for advertising, analytics, or tracking  
+- No WeatherKit data is stored or uploaded  
+
+---
+
+## 3. DLNA Casting Permissions
+
+The App includes **DLNA casting** functionality to connect with playback devices on the local network (such as TVs, projectors, or media boxes).
+
+- Local network permissions are used only to discover, connect to, and control DLNA receiver devices  
+- No LAN or network scan information is collected, stored, or uploaded  
+- No device identifiers (e.g., MAC address, IP address) are collected  
+- No tracking or analytics are performed  
+- No data is shared with any third parties  
+
+---
+
+## 4. Device Permissions
+
+The App may request certain system permissions (e.g., location permission for weather display, local network permission for DLNA casting).
+
+These permissions are used only for their intended functionality:
+
+- Data accessed via permissions is not stored  
+- Data is not uploaded or analyzed  
+- Permissions are never used to identify users  
+
+---
+
+## 5. Updates to This Privacy Policy
+
+We may update this Privacy Policy from time to time.  
+If significant changes occur, we will notify you within the App.  
+You may always check the latest version in the App.
+
+---
+
+## 6. Contact Us
+
+If you have any questions or suggestions regarding this Privacy Policy, please contact us:
+
+📧 veritylinda@gmail.com
+
