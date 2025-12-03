@@ -18,8 +18,8 @@ UnPlay チーム（以下「当社」）は、UnPlay アプリ（以下「本ア
 
 ## 2. WeatherKit の利用について
 
-本アプリでは Apple **WeatherKit** を天気情報の表示にのみ使用しています：  
-[http://weatherkit.apple.com/legal-attribution.html](http://weatherkit.apple.com/legal-attribution.html)
+本アプリでは Apple WeatherKit を天気情報の表示にのみ使用しています：  
+http://weatherkit.apple.com/legal-attribution.html
 
 - 天気情報の取得および表示のみに使用します  
 - 個人を特定できる情報とは関連付けません  
