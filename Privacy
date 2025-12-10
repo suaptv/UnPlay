@@ -16,7 +16,7 @@ UnPlay 团队（“我们”）开发并提供 UnPlay 应用（“本应用”�
 
 ---
 
-## 2. WeatherKit 使用说明
+## 2. WeatherKit 使用说明(仅在AppleTV端使用)
 
 本应用使用 Apple WeatherKit 仅用于显示天气信息：
 http://weatherkit.apple.com/legal-attribution.html
