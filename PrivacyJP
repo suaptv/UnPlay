@@ -16,7 +16,7 @@ UnPlay チーム（以下「当社」）は、UnPlay アプリ（以下「本ア
 
 ---
 
-## 2. WeatherKit の利用について
+## 2. WeatherKit の利用について(AppleTVでのみ使用可能)
 
 本アプリでは Apple WeatherKit を天気情報の表示にのみ使用しています：  
 http://weatherkit.apple.com/legal-attribution.html
