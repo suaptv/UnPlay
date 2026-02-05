@@ -129,5 +129,5 @@
 POST http://192.168.0.111:9030/
 Content-Type: application/x-www-form-urlencoded
 
-urls=%E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8&option=native&mode=playList
+urls=%E7%AC%AC20%E9%9B%86%24http%3A%2F%2F192.168.0.1%2Ftest.mp4&option=native&mode=playList
 ```
