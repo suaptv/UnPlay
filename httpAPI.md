@@ -1,25 +1,26 @@
 # Playback Event HTTP API Documentation
 
-用于获取 **Unplay 播放器当前播放状态** 的 HTTP 接口文档。  
-适合用于投屏联动、远程控制、播放状态同步、二次开发等场景。
+用于获取 **Unplay 播放器状态** 以及 **通过 HTTP 指令触发播放** 的接口文档。  
+适用于投屏控制、播放调度、自动播放、二次开发等场景。
 
 ---
 
 ## ✨ 功能概述
 
-该接口用于 **实时获取播放器当前播放信息**，包括：
+当前提供两类 HTTP 接口能力：
 
-- 播放状态（播放 / 暂停 / 停止）
-- 当前播放时间
-- 当前视频总时长
-- 当前播放的媒体标题
-- 播放列表位置与总数量
-
-接口返回 **JSON 格式数据**，便于前端、服务端或自动化程序解析。
+1. **播放器状态查询**
+   - 获取播放状态、进度、标题等信息
+2. **播放器控制**
+   - 通过 POST 请求直接触发视频播放
+   - 支持单集播放与播放列表模式
 
 ---
 
-## 🌐 接口地址
+## 🌐 播放器状态查询接口（GET）
+
+### 接口地址
+
 
 http://{UNPLAY_IP}:9030/PlaybackEvent
 
@@ -68,9 +69,59 @@ http://192.168.0.111:9030/PlaybackEvent
 | `STOPPED`         | 播放已停止 |
 
 
-🧠 使用场景示例
-📺 投屏状态同步
-🎮 远程控制播放器
-📱 手机 / 平板显示播放进度
-🧩 智能家居或自动化系统联动
-🧪 播放器状态监控与调试
+
+▶️ 播放控制接口（POST）
+通过 HTTP POST 请求，向播放器发送 播放视频指令。
+接口地址
+http://{UNPLAY_IP}:9030/
+
+📤 请求方式
+Method：POST
+Content-Type：application/x-www-form-urlencoded
+
+📦 POST 参数说明
+| 参数名      | 必填 | 说明             |
+| -------- | -- | -------------- |
+| `urls`   | ✅  | 播放资源列表（URL 编码） |
+| `option` | ❌  | 播放器类型          |
+| `mode`   | ❌  | 播放模式           |
+
+
+🧾 urls 参数说明（重点）
+urls 必须进行 URL 编码
+内容为 每行一条播放资源
+每一行格式为：
+标题$播放地址
+
+
+示例（编码前）
+第20集$https://cdn.yzzy32-play.com/20260205/16484_4fffd1f6/index.m3u8
+
+示例（URL 编码后）
+%E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8
+
+📌 多条视频时：
+使用换行符分隔后再进行整体 URL 编码。
+
+⚙️ option 参数（播放器类型）
+值	说明
+native	使用 原生播放器（默认推荐）
+ffmpeg	使用 FFmpeg 播放器
+
+🎬 mode 参数（播放模式）
+值	说明
+none	只播放一集
+playList	播放列表模式
+
+POST http://192.168.0.111:9030/
+Content-Type: application/x-www-form-urlencoded
+
+urls=%E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8&option=native&mode=playList
+
+
+🧠 使用场景
+🎮 远程控制播放指定视频
+📺 自动投屏播放影视内容
+📱 手机 / Web 页面一键投放
+🧩 智能家居或自动化播放系统
+🧪 播放器联调与测试工具
