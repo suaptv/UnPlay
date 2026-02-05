@@ -3,7 +3,7 @@
 > 本仓库为收集 UnPlay 在使用过程中遇到的问题
 - **[帮助](https://github.com/suaptv/UnPlay/blob/main/Help)**
 - **[DLNA投屏步骤](https://github.com/suaptv/UnPlay/blob/main/dlna.md)**
-- - **[HTTP投屏接口说明](https://github.com/suaptv/UnPlay/blob/main/httpAPI.md)**
+- **[HTTP投屏接口说明](https://github.com/suaptv/UnPlay/blob/main/httpAPI.md)**
 
 UnPlay 是一款专业的 DLNA 接收器(不支持AirPlay)与场景体验应用，让你的 Apple TV 不再只是播放器，而是家庭中的氛围创造者。
 无论是投屏、时钟、天气、壁纸，还是动态场景展示，都能在 UnPlay 中一体呈现。
