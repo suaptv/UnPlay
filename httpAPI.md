@@ -105,9 +105,9 @@ http://{UNPLAY_IP}:9030/
 
 标题$播放地址
 #### 示例（编码前）
-第20集$https://cdn.yzzy32-play.com/20260205/16484_4fffd1f6/index.m3u8
+第20集$http://192.168.0.1/test.mp4
 #### 示例（URL 编码后）
-%E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8
+%E7%AC%AC20%E9%9B%86%24http%3A%2F%2F192.168.0.1%2Ftest.mp4
 
 
 📌 **多条视频时**
