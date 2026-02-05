@@ -69,59 +69,79 @@ http://192.168.0.111:9030/PlaybackEvent
 | `STOPPED`         | 播放已停止 |
 
 
+## ▶️ 播放控制接口（POST）
 
-▶️ 播放控制接口（POST）
-通过 HTTP POST 请求，向播放器发送 播放视频指令。
-接口地址
+通过 **HTTP POST 请求**，向播放器发送 **播放视频指令**。
+
+---
+
+### 🌐 接口地址
 http://{UNPLAY_IP}:9030/
 
-📤 请求方式
-Method：POST
-Content-Type：application/x-www-form-urlencoded
+---
 
-📦 POST 参数说明
-| 参数名      | 必填 | 说明             |
-| -------- | -- | -------------- |
-| `urls`   | ✅  | 播放资源列表（URL 编码） |
-| `option` | ❌  | 播放器类型          |
-| `mode`   | ❌  | 播放模式           |
+### 📤 请求方式
 
+- **Method**：`POST`
+- **Content-Type**：`application/x-www-form-urlencoded`
 
-🧾 urls 参数说明（重点）
-urls 必须进行 URL 编码
-内容为 每行一条播放资源
-每一行格式为：
+---
+
+### 📦 POST 参数说明
+
+| 参数名 | 必填 | 说明 |
+|------|------|------|
+| `urls` | ✅ | 播放资源列表（URL 编码） |
+| `option` | ❌ | 播放器类型 |
+| `mode` | ❌ | 播放模式 |
+
+---
+
+### 🧾 urls 参数说明（重点）
+
+- `urls` **必须进行 URL 编码**
+- 内容为 **每行一条播放资源**
+- 每一行格式如下：
+
 标题$播放地址
-
-
-示例（编码前）
+#### 示例（编码前）
 第20集$https://cdn.yzzy32-play.com/20260205/16484_4fffd1f6/index.m3u8
-
-示例（URL 编码后）
+#### 示例（URL 编码后）
 %E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8
 
-📌 多条视频时：
-使用换行符分隔后再进行整体 URL 编码。
 
-⚙️ option 参数（播放器类型）
-值	说明
-native	使用 原生播放器（默认推荐）
-ffmpeg	使用 FFmpeg 播放器
+📌 **多条视频时**
 
-🎬 mode 参数（播放模式）
-值	说明
-none	只播放一集
-playList	播放列表模式
+- 使用 **换行符** 分隔多条资源
+- 然后对 **整体内容进行 URL 编码**
 
+---
+
+### ⚙️ option 参数（播放器类型）
+
+| 值 | 说明 |
+|---|---|
+| `native` | 使用 **原生播放器**（默认推荐） |
+| `ffmpeg` | 使用 **FFmpeg 播放器** |
+
+---
+
+### 🎬 mode 参数（播放模式）
+
+| 值 | 说明 |
+|---|---|
+| `none` | 只播放一集 |
+| `playList` | 播放列表模式 |
+
+---
+
+### 📌 完整请求示例
+
+```http
 POST http://192.168.0.111:9030/
 Content-Type: application/x-www-form-urlencoded
 
 urls=%E7%AC%AC20%E9%9B%86%24https%3A%2F%2Fcdn.yzzy32-play.com%2F20260205%2F16484_4fffd1f6%2Findex.m3u8&option=native&mode=playList
 
 
-🧠 使用场景
-🎮 远程控制播放指定视频
-📺 自动投屏播放影视内容
-📱 手机 / Web 页面一键投放
-🧩 智能家居或自动化播放系统
-🧪 播放器联调与测试工具
+
