@@ -1,5 +1,5 @@
-Top小组件Apple TV专有, 操作说明:
-设定海报
+Top小组件Apple TV专有, 设定海报步骤:
+
 1. 打开UnPlay--下滑(方向键下)--焦点移动到"设置"(最右侧图标)
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/1setting.jpg" width="55%">
 2. 选择“Top小组件”
