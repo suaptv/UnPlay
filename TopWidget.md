@@ -5,7 +5,7 @@
 
 ### ① 打开设置入口
 1. 打开 **UnPlay**  
-2. 下滑(按 **方向键 ↓** )
+2. 下滑( 按 **方向键 ↓** )
 3. 将焦点移动到右侧最末的 **「设置」** 图标  
 
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/1setting.jpg" width="55%">
@@ -37,7 +37,7 @@
 ### ④ 怎么展示漂亮的壁纸
 1. 返回到Apple TV系统桌面 
 2. 焦点移动到UnPlay上
-3. 上滑(上键)进入
+3. 上滑( 按 **方向键 ↑** )进入
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/setting4.jpg" width="55%">
 
 ---
