@@ -54,7 +54,7 @@ tvOS → 设置 → 视频和音频 → 匹配内容
 
 > 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 投屏 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 」** 按钮 → 选择 UnPlay
 >   
-> 或找分享 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/shareICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 」** 按钮
+> 或找分享 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/shareiCON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 」** 按钮
 
 ---
 
