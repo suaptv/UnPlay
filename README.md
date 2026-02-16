@@ -4,7 +4,7 @@
 > 
 - **[DLNA投屏步骤](https://github.com/suaptv/UnPlay/blob/main/dlna.md)**
 - **[无法搜到UnPlay排查方案](https://github.com/suaptv/UnPlay/blob/main/help.md)**
-- **[投屏失败解决办法？](https://github.com/suaptv/UnPlay/blob/main/dlnaCastError.md)**
+- **[投屏失败播放出错？](https://github.com/suaptv/UnPlay/blob/main/dlnaCastError.md)**
 - **[Top小组件](https://github.com/suaptv/UnPlay/blob/main/TopWidget.md)**
 - **[HTTP投屏接口说明](https://github.com/suaptv/UnPlay/blob/main/httpAPI.md)**
 
