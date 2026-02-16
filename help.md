@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/1e88e5/ffffff?text=DLNA+连接说明" alt="DLNA连接说明" width="80%">
+  <br>
+  <em>DLNA连接示意图：手机 ➔ 路由器 ➔ Apple TV</em>
+</p>
+
 ## 1️⃣ 路由器
 - 📶 **手机 和 Apple TV 连接的是同一个路由器，同一个Wi-Fi名字**
 - ❌ 如果你家是「Mesh 组网」或「AP + 主路由」且不在同一局域网，**可以把路由器设为 AP 模式**  
