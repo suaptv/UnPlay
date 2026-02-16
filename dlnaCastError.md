@@ -52,7 +52,7 @@ tvOS → 设置 → 视频和音频 → 匹配内容
 | **Alook** | 保定乐活网络科技 | ✅ **付费**，功能强大 |
 | **夸克浏览器** | 广州动悦信息技术 | 阿里旗下 |
 
-> 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="vertical-align: middle; display: inline-block; margin: 0 2px;"> 投屏」** 按钮 → 选择 UnPlay
+> 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="vertical-align: middle; display: inline-block; margin-top: -2px;"> 投屏」** 按钮 → 选择 UnPlay
 
 ---
 
