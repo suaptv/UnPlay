@@ -3,7 +3,7 @@
 > 本仓库为收集 UnPlay 在使用过程中遇到的问题
 > 
 - **[DLNA投屏步骤](https://github.com/suaptv/UnPlay/blob/main/dlna.md)**
-- **[DLNA无法搜索到?排查方案](https://github.com/suaptv/UnPlay/blob/main/help.md)**
+- **[客户端无法搜到UnPlay排查方案](https://github.com/suaptv/UnPlay/blob/main/help.md)**
 - **[Top小组件](https://github.com/suaptv/UnPlay/blob/main/TopWidget.md)**
 - **[HTTP投屏接口说明](https://github.com/suaptv/UnPlay/blob/main/httpAPI.md)**
 
