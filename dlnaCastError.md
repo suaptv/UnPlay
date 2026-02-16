@@ -52,9 +52,9 @@ tvOS → 设置 → 视频和音频 → 匹配内容
 | **Alook** | 保定乐活网络科技 | ✅ **付费**，功能强大 |
 | **夸克浏览器** | 广州动悦信息技术 | 阿里旗下 |
 
-> 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 投屏」** 按钮 → 选择 UnPlay
-> 投屏到 UnPlay 时遇到**没HDR、画面发紫、403报错、不知道分辨率**？  
-> 这篇帮你一次性解决！
+> 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 投屏 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 」** 按钮 → 选择 UnPlay
+>   
+> 或找分享**「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 投屏」** 按钮
 
 ---
 
