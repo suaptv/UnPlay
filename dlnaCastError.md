@@ -68,8 +68,7 @@ text
 
 ### ✅ 解决方法
 - **目前无解**（除非阿里云盘支持原画投屏）
-- 替代方案：
-- 用 Infuse, FileBall, VidHub, SenPlayer等播放器投屏
+- 替代方案：用 Infuse, FileBall, VidHub, SenPlayer等播放器投屏
 
 ---
 
