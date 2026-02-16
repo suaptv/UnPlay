@@ -69,10 +69,8 @@
 ### UnPlay出现投屏部分正常解决方式
 - 特别提醒：不要升级测试系统, 升级之后可能出现这个提示无法使用
 - ♥️小技巧: 先打开UnPlay避免被其他APP影响
-
-🧩 可能原因
-有些 App 在后台运行时：从而导致投屏异常。
-[查看帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaPartError.md)
+- [查看帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaPartError.md)
+  
 ---
 
 ## 4️⃣ VPN / 网络工具 特殊配置
