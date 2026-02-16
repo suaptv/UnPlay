@@ -60,7 +60,9 @@ tvOS → 设置 → 视频和音频 → 匹配内容
      width="40"
      align="absmiddle"> TV 」** 按钮 → 选择 UnPlay
 >
-> 或找更多 **「 ••• 」** 按钮 → 点投屏 **「 TV 」** 按钮 → 选择 UnPlay
+> 或找更多 **「 ••• 」** 按钮 → 点投屏 **「 <img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png"
+     width="40"
+     align="absmiddle">TV 」** 按钮 → 选择 UnPlay
 
 ---
 
