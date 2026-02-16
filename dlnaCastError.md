@@ -69,8 +69,7 @@ text
 ### ✅ 解决方法
 - **目前无解**（除非阿里云盘支持原画投屏）
 - 替代方案：
-- 下载到本地 → 用 Infuse 等播放器投屏
-- 用第三方阿里云盘客户端（如 VidHub）支持杜比直连
+- 用 Infuse, FileBall, VidHub, SenPlayer等播放器投屏
 
 ---
 
