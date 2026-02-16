@@ -53,8 +53,7 @@ tvOS → 设置 → 视频和音频 → 匹配内容
 | **夸克浏览器** | 广州动悦信息技术 | 阿里旗下 |
 
 > 📌 使用方法：在浏览器打开视频 → 点击视频播放之后 → 找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="50" height="50" style="position: relative; top: -2px; display: inline-block;"> 投屏」** 按钮 → 选择 UnPlay
-> 
-或找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/shareiCON.png" width="30" height="30" style="position: relative; top: -2px; display: inline-block;"> 分享」** 按钮
+> 或找 **「<img src="https://github.com/suaptv/UnPlay/blob/main/images/shareiCON.png" width="30" height="30" style="position: relative; top: -2px; display: inline-block;"> 分享」** 按钮
 
 ---
 
