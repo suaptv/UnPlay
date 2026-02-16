@@ -72,8 +72,7 @@
 
 🧩 可能原因
 有些 App 在后台运行时：从而导致投屏异常。
-逐个关闭APP后台再次回到UnPlay，如果提示投屏正常就说明是某个APP导致
-
+[查看帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaPartError.md)
 ---
 
 ## 4️⃣ VPN / 网络工具 特殊配置
