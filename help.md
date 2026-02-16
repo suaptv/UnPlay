@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e88e5/ffffff?text=DLNA+连接说明" alt="DLNA连接说明" width="80%">
+  <img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaConnectRead.jpg?raw=true" alt="DLNA连接说明" width="80%">
   <br>
   <em>DLNA连接示意图：手机 ➔ 路由器 ➔ Apple TV</em>
 </p>
