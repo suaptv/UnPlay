@@ -21,19 +21,17 @@
 ---
 
 ### ③ 选择视频循环播放
-选择 **「视频循环播放」**  
-
-> 💡 提示：请确保 **「Top Shelf 小组件选项」** 已打开
-> 
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/topShelfSet1.jpg" width="55%">
 
 ---
-
+选择 **「视频循环播放」**  
 ### ④ 上传视频
+> 💡 提示：请确保 **「Top Shelf 小组件选项」** 已打开
+>
+<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/TopShelfSet2.jpg" width="55%">
 1. 使用手机扫描左侧二维码，或用浏览器打开显示的网址  
 2. 上传视频  
 3. 选择你喜欢的视频  
-
 ---
 
 ### ⑤ 视频列表循环播放（可选）
