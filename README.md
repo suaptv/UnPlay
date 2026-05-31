@@ -6,7 +6,7 @@
 - **[无法搜到UnPlay](https://github.com/suaptv/UnPlay/blob/main/help.md)**
 - **[UnPlay投屏部分正常](https://github.com/suaptv/UnPlay/blob/main/dlnaPartError.md)**
 - **[投屏播放出错和其它帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaCastError.md)**
-- **[Top小组件](https://github.com/suaptv/UnPlay/blob/main/TopWidget.md)**
+- **[Top小组件](https://github.com/suaptv/UnPlay/blob/main/TopShelfList.md)**
 - **[HTTP投屏接口说明](https://github.com/suaptv/UnPlay/blob/main/httpAPI.md)**
 
 UnPlay 是一款专业的 DLNA 接收器(不支持AirPlay)与场景体验应用，让你的 Apple TV 不再只是播放器，而是家庭中的氛围创造者。
