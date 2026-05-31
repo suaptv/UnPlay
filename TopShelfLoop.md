@@ -24,6 +24,8 @@
 选择 **「视频循环播放」**  
 
 > 💡 提示：请确保 **「Top Shelf 小组件选项」** 已打开
+> 
+<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/1setting.jpg" width="55%">
 
 ---
 
