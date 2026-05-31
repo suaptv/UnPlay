@@ -25,7 +25,7 @@
 
 > 💡 提示：请确保 **「Top Shelf 小组件选项」** 已打开
 > 
-<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/1setting.jpg" width="55%">
+<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/topShelfSet1.jpg" width="55%">
 
 ---
 
