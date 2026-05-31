@@ -23,8 +23,7 @@
 ### ③ 选择视频循环播放
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/TopShelfSet2.jpg" width="55%">
 
----
-选择 **「视频循环播放」**  
+--- 
 ### ④ 上传视频
 > 💡 提示：请确保 **「Top Shelf 小组件选项」** 已打开
 >
