@@ -29,7 +29,7 @@
 1. 选择 **「幻灯片」**  
 2. 使用手机扫描左侧二维码  
 3. 上传本地海报，并选择你喜欢的图片即可  
-4. 展示方式 --> 选择幻灯片顺序播放
+4. 展示方式 --> 选择 **「幻灯片顺序播放」**
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/setting3.jpg" width="55%">
 
 ---
