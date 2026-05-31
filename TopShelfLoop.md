@@ -21,7 +21,7 @@
 ---
 
 ### ③ 选择视频循环播放
-<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/topShelfSet1.jpg" width="55%">
+<img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/TopShelfSet2.jpg" width="55%">
 
 ---
 选择 **「视频循环播放」**  
