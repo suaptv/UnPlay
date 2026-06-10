@@ -7,6 +7,6 @@
 2. 投屏失败出错和其它帮助? **[看帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaCastError.md)**
 3. UnPlay出现投屏部分正常? **[看帮助](https://github.com/suaptv/UnPlay/blob/main/dlnaPartError.md)**
 
-### dlna投屏步骤示意图
+### 在视频客户端播放视频后按照下面示意图操作
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/dlnabu1.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/suaptv/UnPlay/master/images/dlna2.jpg" width="80%">
