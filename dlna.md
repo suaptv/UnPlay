@@ -1,7 +1,7 @@
 1. 在Apple TV上打开UnPlay
 2. 在手机上打开视频客户端--播放视频--找到投屏<img src="https://github.com/suaptv/UnPlay/blob/main/images/dlnaICON.png" width="40" align="absmiddle">图标--选择UnPlay(Apple TV)
 > **⚠️⚠️⚠️不要点airplay按钮。新人请按照教程步骤操作。**
-- **[视频教程]([https://www.bilibili.com/video/BV1YZVZ6dEBu](https://www.bilibili.com/video/BV1nxEZ6jEj7)**
+- **[视频教程](https://www.bilibili.com/video/BV1nxEZ6jEj7)**
   
 目录
 1. DLNA搜索不到？**[看帮助](https://github.com/suaptv/UnPlay/blob/main/help.md)**
