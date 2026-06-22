@@ -1,5 +1,5 @@
 # 🧭 UnPlay出现dlna投屏部分正常, 怎么解决？
-
+- **[视频教程]([https://www.bilibili.com/video/BV1YZVZ6dEBu](https://www.bilibili.com/video/BV1nxEZ6jEj7)**
 ---
 
 ## ⚠️ 特别提醒
