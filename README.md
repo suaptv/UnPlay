@@ -68,6 +68,7 @@ UnPlay 是一款专业的 DLNA 接收器(不支持AirPlay)与场景体验应用�
 
 ### 项目预览
 使用客户端的DLNA投屏到Apple TV
+![Screen Shot](https://raw.githubusercontent.com/suaptv/UnPlay/master/images/flip-glass.jpg)
 ![Screen Shot](https://raw.githubusercontent.com/suaptv/UnPlay/master/images/107.jpg)
 ![Screen Shot](https://raw.githubusercontent.com/suaptv/UnPlay/master/images/106.jpg)
 ![Screen Shot](https://raw.githubusercontent.com/suaptv/UnPlay/master/images/105.jpg)
