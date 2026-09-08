@@ -17,6 +17,7 @@ UnPlay 是一款专业的 DLNA 接收器(不支持AirPlay)与场景体验应用�
 
 ### iOS端诊断工具
 方便用户判断苹果手机无法搜索到AppleTV端UnPlay，快速判断问题在哪里
+UnPlay-->设置-->投屏诊断工具
 
 ### 支持tvOS、iOS、macOS
 苹果平台畅玩dlna投屏接收器
